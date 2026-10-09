@@ -1,0 +1,236 @@
+{
+  "skills": [
+    "biacore-bme-repair",
+    "graphpad-prism-templates",
+    "gromacs-xvg-unified-plot",
+    "schrodinger-glide-workflow",
+    "scientific-draw"
+  ],
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 98,
+      "sha256": "01c0cd23b342dcd218aa96a923dad8322ae58fe0cd3ede6629d33c85cea93dac"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1088,
+      "sha256": "b7a35c11089c4f19d8c66681c12b63bf6a4124269339d145ff854786eddcc332"
+    },
+    {
+      "path": "README.md",
+      "size": 2697,
+      "sha256": "9cd02d7e4f069162fc52bbf2dc0308003900f204a6235228ec323ab54631031e"
+    },
+    {
+      "path": "skills/biacore-bme-repair/bme_tool.py",
+      "size": 13800,
+      "sha256": "2c38acc5042f58b132aa4feda03ad6f6ac7fa66e8b4666c62c370b526f38213a"
+    },
+    {
+      "path": "skills/biacore-bme-repair/fix_all.py",
+      "size": 14451,
+      "sha256": "a823a6e53ac10435be5a0341fdf05d7edb34fa8025c9a7d9d92a352c57683e9a"
+    },
+    {
+      "path": "skills/biacore-bme-repair/fix_conc_nm.py",
+      "size": 5142,
+      "sha256": "5268a7a5fae691cca4ac319cce792c622a6c10b824010e598df7df9730180475"
+    },
+    {
+      "path": "skills/biacore-bme-repair/net_check.ps1",
+      "size": 2231,
+      "sha256": "fd9353119f25b4be7cb4084041b59a323d34cac340ef6eaf2c2a46b713604699"
+    },
+    {
+      "path": "skills/biacore-bme-repair/README.md",
+      "size": 514,
+      "sha256": "12f1eb3a540cd33b9597dd5a07baf806c05d44e0246e3c50121d7865a002b1be"
+    },
+    {
+      "path": "skills/biacore-bme-repair/requirements.txt",
+      "size": 15,
+      "sha256": "d546c70d045fd1a8696f0933f735b07d0fe105e7f6d410dee3a29ac5c232726e"
+    },
+    {
+      "path": "skills/biacore-bme-repair/SKILL.md",
+      "size": 14210,
+      "sha256": "5410d82f10a57c5d3d99beb3734a2647d9812b7d1511135731274a7dd5b2ba3f"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/README.md",
+      "size": 745,
+      "sha256": "e1a790c7148ca0e6733afe2f2d2776778e56ca2909bb1d790cd57cc2c727e2ef"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/SKILL.md",
+      "size": 1848,
+      "sha256": "2a15feb8f4cbfe6f74ed5c2f5e252913975c6b0deca79d668ea840f4829074a5"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/references/automation.md",
+      "size": 1732,
+      "sha256": "39802849270bc6a1601d6c93a9739501c688db28beb778256ac98c515675ff96"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/references/catalog.json",
+      "size": 23446,
+      "sha256": "819455de50525a69a0cb3b27031b5bbd4ea9609f778529314fad0a87b080e66e"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/references/catalog.md",
+      "size": 4807,
+      "sha256": "57c332750af38c9d36ec5a5a24d1457863b42d91cbb616513718528bba39114a"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/references/verification.md",
+      "size": 970,
+      "sha256": "afa3b3ffbd2e2838d41284484a417b4365bcc2d697a77f49c0001d8477070e44"
+    },
+    {
+      "path": "skills/graphpad-prism-templates/scripts/prism_job.py",
+      "size": 3875,
+      "sha256": "bcab48ba8ab4b5de1e57e3ca3b1e09459ae002a197739aa1182dc481e4053100"
+    },
+    {
+      "path": "skills/gromacs-xvg-unified-plot/README.md",
+      "size": 525,
+      "sha256": "2cf3f23777ff112a9958a473f5953029e09af2792e515b4e2006966bd71925ea"
+    },
+    {
+      "path": "skills/gromacs-xvg-unified-plot/SKILL.md",
+      "size": 4281,
+      "sha256": "2d2a7f5e1759ce990c6b97017fc2472132820224821b0f58696e79c2b9c0d944"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/.gitignore",
+      "size": 391,
+      "sha256": "d89a349f09e9e3adec954d21355b991f6e141b0dd2082c8f5b9b470c650e615f"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/README.md",
+      "size": 524,
+      "sha256": "501daa48091396a329a59780afa9bac5ee37a47f19bb4c62bc62c417fe5cc384"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/SKILL.md",
+      "size": 23629,
+      "sha256": "0c7ab0d343a981c7f86038859f0b6c4b2d3353d27246ed50f8fdbf10e0163fdf"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/references/technical_reference.md",
+      "size": 3187,
+      "sha256": "f17f2a50de3019f6a1f948b993a79784c8209a8ea4138c913986feb90d3864b1"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/scripts/chirality_tools.py",
+      "size": 6905,
+      "sha256": "cdd864accf59deef3fe65d721c8e598a0a45a39d5dd3e49125a4fb0aec9553a9"
+    },
+    {
+      "path": "skills/schrodinger-glide-workflow/scripts/parallel_glide.py",
+      "size": 6050,
+      "sha256": "fa46db0648f5063789d91fdd3e85fc5f2814c17a061a0e262021299b20205f1e"
+    },
+    {
+      "path": "skills/scientific-draw/README.md",
+      "size": 1232,
+      "sha256": "d345b1bd396f633fa71a7e808c29c0c5625cda3d8aecec382d908ab2cb89d136"
+    },
+    {
+      "path": "skills/scientific-draw/requirements.txt",
+      "size": 111,
+      "sha256": "fc816fa51edc4c2601f3d142b55c871f4955f4b74e068e365653d4851c23a970"
+    },
+    {
+      "path": "skills/scientific-draw/SKILL.md",
+      "size": 4104,
+      "sha256": "dd79ac619e427b94654a7aa9f32b874abb8097dc77b8d1bf2b8ded860f550a18"
+    },
+    {
+      "path": "skills/scientific-draw/THIRD_PARTY_NOTICES.md",
+      "size": 489,
+      "sha256": "5e02bd5c5ced77c981c070fa9ab04ea97ffb465d745298d87e27f75969206f62"
+    },
+    {
+      "path": "skills/scientific-draw/assets/abstract.svg",
+      "size": 1341,
+      "sha256": "a3dc227ffdf4f7ea07d9d2182db871120e5f440ef3342a072546649c64511896"
+    },
+    {
+      "path": "skills/scientific-draw/assets/demo.png",
+      "size": 32353,
+      "sha256": "3923f4d235cf93ee4b8229bae5e19b438b50969f4e4875cc04ee5979cf9dc782"
+    },
+    {
+      "path": "skills/scientific-draw/assets/mechanism.svg",
+      "size": 1615,
+      "sha256": "3a9fa4f91718c6f5743a38c05deb9c75f676129bef510c5f5181261d5d0d95f3"
+    },
+    {
+      "path": "skills/scientific-draw/assets/workflow.svg",
+      "size": 1344,
+      "sha256": "6a383e0226b8d6579292aa4fc289a432ae558ee337f5f67282481466c44a1124"
+    },
+    {
+      "path": "skills/scientific-draw/references/redraw.md",
+      "size": 1359,
+      "sha256": "e02bd2b0dd619fafe505125ab8f309132c735e141f72b9c51b8a68c8b80135b2"
+    },
+    {
+      "path": "skills/scientific-draw/references/runtime-lock.txt",
+      "size": 145,
+      "sha256": "5d8bdf367458132b0da6e4b4a0a7fc83adbe8f3fe4013c0e38b78eecbe5d26d0"
+    },
+    {
+      "path": "skills/scientific-draw/references/runtime.md",
+      "size": 1499,
+      "sha256": "676a9c6cd69264e6fb176e95b3212313acbf3141ea65e4ba3024fc6250050389"
+    },
+    {
+      "path": "skills/scientific-draw/references/verification.md",
+      "size": 1312,
+      "sha256": "bb3ad5f2781ee56eb52dd4d39f9c441a66e7ba4f40b59d959678768ee21b3464"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/draw.py",
+      "size": 5197,
+      "sha256": "c279947a3feefc23b1a65d77cd66a97602fe645aa50c8b3e23e38c045f0d97bf"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/trace.py",
+      "size": 1268,
+      "sha256": "c330d61575aa78da54cdaf4abf73935740aa4305e759c36a6b7862799a79414e"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/canvas_clip.py",
+      "size": 2594,
+      "sha256": "f198e77af02bc673aea79cc7f4327b514ca225c4e2d5a0a23eb96ac23ea5ed26"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/cell_lct_cached_runtime.jsx",
+      "size": 25088,
+      "sha256": "053cf0acc90192feb3c4fd11cbab24136b79cbeb706515f036f2cecb6f2359e7"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/LICENSE",
+      "size": 1086,
+      "sha256": "182e2f4ce33e02bd14c11fadeb44fd39d98339e26a143090dba9ed2c77490ede"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/merge_live_text.py",
+      "size": 8185,
+      "sha256": "b66fd602cfa7c2a2d30e1f688cb07ebda20a1e8ff6b1385625bc3d4175ad6246"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/prepare_geometry_cache.py",
+      "size": 33054,
+      "sha256": "1276a1d630bc7cf08d2a986f0ca01be250f923fb3adf4442afe6bbbf217f00dd"
+    },
+    {
+      "path": "skills/scientific-draw/scripts/vendor/run_cell_ppt_ooxml.py",
+      "size": 11814,
+      "sha256": "9eed80d28bdc066b28a798ba6e9380e91142fdd2be17e1d1676ddc1c32f47024"
+    }
+  ]
+}
